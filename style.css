@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2c3e50;
+}
+
+.homepage {
+    margin: auto;
+    width: 80%;
+    padding: 30px;
+}
+
+.homepage h1 {
+    font-size: 40px;
+}
+
+.homepage h3 {
+    font-size: 30px;
+}
+
+h1, h2, h3 {
+    color: #27ae60;
+}
+
+code {
+    font-size: 20px;
+    color: #8e44ad;
+}
